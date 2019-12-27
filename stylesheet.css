@@ -1,0 +1,11 @@
+.item {
+    background-color: aquamarine;
+}
+.effects_on_click{
+    background-color: red;
+    transition: background-color 2s ease;
+}
+
+.text {
+    visibility: collapse;
+}
